@@ -1,2 +1,3 @@
 # C-programming-Lab-File
-all the lab experiments 
+LAB EXPERIMENTS IN C LANGUAGE IN SEMESTER 1
+
